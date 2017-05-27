@@ -1,4 +1,4 @@
-s default on
+# (d) is default on
 
 # ------------------------------
 # General Settings
